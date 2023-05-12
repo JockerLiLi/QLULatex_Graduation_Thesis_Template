@@ -1,0 +1,287 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.8.22)  12 MAY 2023 13:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**acknowledgements.tex
+(./acknowledgements.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+! Undefined control sequence.
+l.3 \titlecontents
+                  {chapter}[2em]{\vspace{.5\baselineskip}\xiaosan\song}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \titlecontents{c
+                    hapter}[2em]{\vspace{.5\baselineskip}\xiaosan\song}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no [ ("5B) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no ] ("5D) in font nullfont!
+! Undefined control sequence.
+l.3 ...pter}[2em]{\vspace{.5\baselineskip}\xiaosan
+                                                  \song}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3 ...[2em]{\vspace{.5\baselineskip}\xiaosan\song
+                                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4              {\prechaptername
+                                 \CJKnumber{\thecontentslabel}\postchapterna...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4              {\prechaptername\CJKnumber
+                                           {\thecontentslabel}\postchapterna...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4 ...\prechaptername\CJKnumber{\thecontentslabel
+                                                  }\postchaptername\qquad}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4 ...JKnumber{\thecontentslabel}\postchaptername
+                                                  \qquad}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6 \fancypagestyle
+                   {plain}   % 设置页眉页脚风格，按照教务处规定，此处出现页眉，但是没有页脚（页码）。
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+! Undefined control sequence.
+l.7 \lhead
+          {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8 \rhead
+          {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9 \chead
+          {\song\wuhao 齐鲁工业大学 2023 届本科生毕业设计(论文)} % 设置页眉内容
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9 \chead{\song
+                \wuhao 齐鲁工业大学 2023 届本科生毕业设计(论文)} % 设置页眉内容
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9 \chead{\song\wuhao
+                       齐鲁工业大学 2023 届本科生毕业设计(论文)} % 设置页眉内容
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 齐 ("9F50) in font nullfont!
+Missing character: There is no 鲁 ("9C81) in font nullfont!
+Missing character: There is no 工 ("5DE5) in font nullfont!
+Missing character: There is no 业 ("4E1A) in font nullfont!
+Missing character: There is no 大 ("5927) in font nullfont!
+Missing character: There is no 学 ("5B66) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no 届 ("5C4A) in font nullfont!
+Missing character: There is no 本 ("672C) in font nullfont!
+Missing character: There is no 科 ("79D1) in font nullfont!
+Missing character: There is no 生 ("751F) in font nullfont!
+Missing character: There is no 毕 ("6BD5) in font nullfont!
+Missing character: There is no 业 ("4E1A) in font nullfont!
+Missing character: There is no 设 ("8BBE) in font nullfont!
+Missing character: There is no 计 ("8BA1) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no 论 ("8BBA) in font nullfont!
+Missing character: There is no 文 ("6587) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+! Undefined control sequence.
+l.10 \lfoot
+           {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.11 \cfoot
+           {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.12 \rfoot
+           {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rotect \contentsline {chapter}{\hei 
+                                                  \sanhao 致\quad 谢}{\thepage...
+l.14 ...sline{toc}{chapter}{\hei \sanhao 致\quad 谢}
+                                                   % 添加到目录中
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...contentsline {chapter}{\hei \sanhao 
+                                                  致\quad 谢}{\thepage }{}\pro...
+l.14 ...sline{toc}{chapter}{\hei \sanhao 致\quad 谢}
+                                                   % 添加到目录中
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 \chapter
+             *{致\quad 谢}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no * ("2A) in font nullfont!
+Missing character: There is no 致 ("81F4) in font nullfont!
+Missing character: There is no 谢 ("8C22) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--17
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 我
+      就做了三件微小的事情，谢谢大家。
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 我 ("6211) in font nullfont!
+Missing character: There is no 就 ("5C31) in font nullfont!
+Missing character: There is no 做 ("505A) in font nullfont!
+Missing character: There is no 了 ("4E86) in font nullfont!
+Missing character: There is no 三 ("4E09) in font nullfont!
+Missing character: There is no 件 ("4EF6) in font nullfont!
+Missing character: There is no 微 ("5FAE) in font nullfont!
+Missing character: There is no 小 ("5C0F) in font nullfont!
+Missing character: There is no 的 ("7684) in font nullfont!
+Missing character: There is no 事 ("4E8B) in font nullfont!
+Missing character: There is no 情 ("60C5) in font nullfont!
+Missing character: There is no ， ("FF0C) in font nullfont!
+Missing character: There is no 谢 ("8C22) in font nullfont!
+Missing character: There is no 谢 ("8C22) in font nullfont!
+Missing character: There is no 大 ("5927) in font nullfont!
+Missing character: There is no 家 ("5BB6) in font nullfont!
+Missing character: There is no 。 ("3002) in font nullfont!
+)
+! Emergency stop.
+<*> acknowledgements.tex
+                        
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 17 strings out of 476179
+ 342 string characters out of 5813072
+ 298507 words of memory out of 5000000
+ 20871 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 12i,1n,12p,120b,24s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.

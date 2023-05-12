@@ -1,0 +1,34 @@
+% !Mode:: "TeX:UTF-8"
+
+%%  可通过增加或减少 setup/format.tex中的
+%%  第274行 \setlength{\@title@width}{8cm}中 8cm 这个参数来 控制封面中下划线的长度。
+
+\cheading{齐鲁工业大学~202x~届本科生毕业设计(论文)}      % 设置正文的页眉，需要填上对应的毕业年份
+\ctitle{你的题目}    % 封面用论文标题，自己可手动断行
+\caffil{\song\sihao{兽医学部}} % 学院名称
+\csubject{\song\sihao{母猪的产后护理}}   % 专业班级
+\cgrade{\song\sihao{张~三}}            % 学生姓名
+\cauthor{\song\sihao{114514}}            % 学生姓名
+\cnumber{\song\sihao{114514}}        % 学生学号
+\csupervisor{\song\sihao{张~三}}        % 导师姓名
+\crank{教授}              % 导师职称
+
+\cdate{\the\year~年~\the\month~月~\the\day~日}
+
+\cabstract{\fangsong\xiaosi{\linespread{1.5} \selectfont
+这是一篇摘要
+
+}
+}
+
+\ckeywords{\fangsong\xiaosi{}}
+
+\eabstract{\linespread{1.5} \selectfont
+this is a abstract
+}
+
+\ekeywords{}
+
+\makecover
+
+\clearpage
