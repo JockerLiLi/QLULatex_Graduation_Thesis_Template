@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.8.22)  15 MAY 2023 18:27
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.8.22)  16 MAY 2023 16:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1806,17 +1806,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `qlumain.out' has not changed.
-(rerunfilecheck)             Checksum: 5FEC42C052C324BB36BA46A8C76166B9;1479.
+(rerunfilecheck)             Checksum: 2997DAFBA0FA21A93D473E37673B4E44;1439.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 29 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 44405 strings out of 476179
- 1037818 string characters out of 5813072
- 1668978 words of memory out of 5000000
- 64311 multiletter control sequences out of 15000+600000
+ 44458 strings out of 476179
+ 1041421 string characters out of 5813072
+ 1668938 words of memory out of 5000000
+ 64364 multiletter control sequences out of 15000+600000
  572917 words of font info for 291 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  108i,11n,108p,1298b,1278s stack positions out of 10000i,1000n,20000p,200000b,200000s
