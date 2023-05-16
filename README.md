@@ -25,7 +25,7 @@ LaTeX 加本模板可以实现：
 
 首先请阅读文档《[一份不太简短的 LaTeX 介绍](http://www.ctan.org/tex-archive/info/lshort/chinese/)》，了解 LaTeX 的基础语法。
 
-打开 `Thesis/preface/cover.tex`，修改封面内容。
+打开 `Thesis/preface/cover.tex`，修改封面内容。注意封面论文题目需要在format.tex处更改。
 
 打开 `Thesis/body.tex`，开始根据示例书写你的毕业设计。绝大部分需求（标引、插图、表格、数学公式、代码环境）等均在示例中有所体现，可直接复制粘贴修改内容。
 
