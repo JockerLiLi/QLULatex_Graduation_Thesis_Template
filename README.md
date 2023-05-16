@@ -100,12 +100,12 @@ smile.py
 
 ### Visual Studio Code
 
-在应用推荐工具链后，打开 `tjumain.tex`，执行 Ctrl + Alt + B；或点击左侧 TEX Tab 并单击 Build LaTeX project。
+在应用推荐工具链后，打开 `qlumain.tex`，执行 Ctrl + Alt + B；或点击左侧 TEX Tab 并单击 Build LaTeX project。
 
 ### 使用`Latexmk`编译
 
 ```bash
-latexmk -pvc -xelatex -file-line-error -interaction=nonstopmode -synctex=1 tjumain.tex
+latexmk -pvc -xelatex -file-line-error -interaction=nonstopmode -synctex=1 qlumain.tex
 ```
 
 ### 手动编译
@@ -113,10 +113,10 @@ latexmk -pvc -xelatex -file-line-error -interaction=nonstopmode -synctex=1 tjuma
 **依次运行**以下四条命令：
 
 ```bash
-xelatex tjumain.tex
-bibtex tjumain.aux
-xelatex tjumain.tex
-xelatex tjumain.tex
+xelatex qlumain.tex
+bibtex qlumain.aux
+xelatex qlumain.tex
+xelatex qlumain.tex
 ```
 
 注意：由于存在目录、参考文献和图表编号等，需要多次编译以保证顺序正确。
