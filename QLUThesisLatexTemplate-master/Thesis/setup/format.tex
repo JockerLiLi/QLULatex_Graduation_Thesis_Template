@@ -290,35 +290,35 @@
 \song\sanhao{\textbf{\@cdate}}
 \end{center}
 \end{titlepage}
-
-%%%%%%%%%%%%%%%%%%%   Abstract and Keywords  %%%%%%%%%%%%%%%%%%%%%%%
-\clearpage
-\markboth{摘~要}{摘~要}
-\pdfbookmark[0]{摘~~要}{cabstract}
-\addcontentsline{toc}{chapter}{\hei \xiaosan 摘~要}%%将摘要加入到目录中去
-%\chapter*{\centering\sanhao\hei\bfseries 摘\qquad 要}
-\chapter*{\centering\sanhao\hei 摘\qquad 要}
-\song\defaultfont
-\@cabstract
-\vspace{\baselineskip}
-
-\hangafter=1\hangindent=52.3pt\noindent
-{\hei\xiaosi 关键词：} \@ckeywords
-\thispagestyle{empty}
-
-%%%%%%%%%%%%%%%%%%%   English Abstract  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\clearpage
-%\phantomsection
-\markboth{ABSTRACT}{ABSTRACT}
-\pdfbookmark[0]{ABSTRACT}{eabstract}
-%\addcontentsline{toc}{chapter}{ABSTRACT}
-\chapter*{\centering\sanhao{\bf{ABSTRACT}}}
+%我把这部分自定义的封面信息注释掉了，因为不是很符合咱们学校的论文模板规范。如果你想自己定义封面，可以模仿下面的内容写中英文摘要。
+%%%%%%%%%%%%%%%%%%%%   Abstract and Keywords  %%%%%%%%%%%%%%%%%%%%%%%
+%\clearpage
+%\markboth{摘~要}{摘~要}
+%\pdfbookmark[0]{摘~~要}{cabstract}
+%\addcontentsline{toc}{chapter}{\hei \xiaosan 摘~要}%%将摘要加入到目录中去
+%%\chapter*{\centering\sanhao\hei\bfseries 摘\qquad 要}
+%\chapter*{\centering\sanhao\hei 摘\qquad 要}
+%\song\defaultfont
+%\@cabstract
 %\vspace{\baselineskip}
-\@eabstract
-\vspace{\baselineskip}
-
-\hangafter=1\hangindent=60pt\noindent
-{\textbf{Keywords:}} \@ekeywords
-\thispagestyle{empty}
+%
+%\hangafter=1\hangindent=52.3pt\noindent
+%{\hei\xiaosi 关键词：} \@ckeywords
+%\thispagestyle{empty}
+%
+%%%%%%%%%%%%%%%%%%%%   English Abstract  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\clearpage
+%%\phantomsection
+%\markboth{ABSTRACT}{ABSTRACT}
+%\pdfbookmark[0]{ABSTRACT}{eabstract}
+%%\addcontentsline{toc}{chapter}{ABSTRACT}
+%\chapter*{\centering\sanhao{\bf{ABSTRACT}}}
+%%\vspace{\baselineskip}
+%\@eabstract
+%\vspace{\baselineskip}
+%
+%\hangafter=1\hangindent=60pt\noindent
+%{\textbf{Keywords:}} \@ekeywords
+%\thispagestyle{empty}
 }
 \makeatother

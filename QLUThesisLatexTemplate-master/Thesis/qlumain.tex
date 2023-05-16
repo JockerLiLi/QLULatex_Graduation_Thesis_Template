@@ -11,7 +11,9 @@
 \graphicspath{{figures/}}                            % 定义所有的图像文件在 figures 子目录下
 \begin{document}                                     % 开始全文
 \input{setup/format}                                 % 完成对论文各个部分格式的设置
-\frontmatter                                         % 以下是论文导言部分，包括论文的封面，中英文摘要和中文目录
+\frontmatter   
+\pagenumbering{Roman} %目录部分用罗马数字编码                                      
+% 以下是论文导言部分，包括论文的封面，中英文摘要和中文目录
 \fancypagestyle{plain}{
 \fancyhf{}
 \renewcommand{\headrulewidth}{0 pt}
@@ -24,7 +26,7 @@
 \defaultfont
 \clearpage{\pagestyle{empty}\cleardoublepage}
 \setcounter{page}{1}                                 % 单独从 1 开始编页码
-\pagenumbering{arabic}
+\pagenumbering{Roman}   							 %目录部分用罗马数字编码
 \titleformat{\chapter}{\centering\sanhao\hei}{\chaptername}{2em}{} % 设置目录两字的格式
 \pdfbookmark[0]{目~~录}{mulu}
 \tableofcontents                                     % 中文目录
@@ -47,7 +49,7 @@
 \makeatother
 \setcounter{page}{1}                                 % 单独从 1 开始编页码
 \titleformat{\chapter}{\centering\xiaosan\hei}{\chaptername}{2em}{} % 恢复chapter标题格式要求
-
+\include{abstract}%设置摘要
 %%%%%%%%%  正文  %%%%%%%%%
 \include{body}
 
@@ -63,8 +65,8 @@
 
 %%%%%%%%%%附录和致谢%%%%%%%%%
 
-\include{AppendicesandAcknowledgements}
-
+\include{AppendicesandAcknowledgements}%这一个AppendicesandAcknowledgements就已经包含了致谢和附录的内容了，所以下面的部分读者自己取舍
+%以下注释掉的内容可以根据你的需要进行取舍
 %\include{appendix/paperInEnglish}              % 外文资料
 %\include{appendix/paperInChinese}              % 中文译文
 %\include{appendix/acknowledgements}            % 致谢
